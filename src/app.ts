@@ -107,8 +107,8 @@ export default class WearAHat {
                 // defaults include actions like Clear, Move Up/Down, and Size Up/Down
                 // e.g. ws://10.0.1.89:3901?kit=city_helmets
                 switch(this.params.kit) {
-                    case "city_helmets": {
-                        this.HatDatabase = Object.assign({}, require('../public/data/1167643861778956427_city_helmets.json'), require(this.controls));
+                    case "fireworks": {
+                        this.HatDatabase = Object.assign({}, require('../public/data/fireworks.json'), require(this.controls));
                         break;
                     }
                     case "space_helmets": {
