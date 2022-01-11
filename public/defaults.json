@@ -1,9 +1,9 @@
 {
     "clear!": {
-        "resourceId": "artifact:1150513214480450500"
+        "menuresourceId": "artifact:1150513214480450500"
     },
     "moveup!": {
-        "resourceId": "artifact:1150513195203429312",
+        "menuresourceId": "artifact:1150513195203429312",
         "menuScale": {
             "x": 4,
             "y": 4,
@@ -11,7 +11,7 @@
         }
     },
     "movedown!": {
-        "resourceId": "artifact:1150513195203429312",
+        "menuresourceId": "artifact:1150513195203429312",
         "menuRotation": {
             "x": 0,
             "y": 0,
@@ -24,7 +24,7 @@
         }
     },
     "sizeup!": {
-        "resourceId": "artifact:1150512610458730762",
+        "menuresourceId": "artifact:1150512610458730762",
         "menuScale": {
             "x": 2,
             "y": 2,
@@ -32,7 +32,7 @@
         }
     },
     "sizedown!": {
-        "resourceId": "artifact:1150512673557840258",
+        "menuresourceId": "artifact:1150512673557840258",
         "menuRotation": {
             "x": 0,
             "y": 0,
@@ -45,7 +45,7 @@
         }
     },
     "moveforward!": {
-        "resourceId": "artifact:1150513195203429312",
+        "menuresourceId": "artifact:1150513195203429312",
         "menuScale": {
             "x": 4,
             "y": 4,
@@ -58,7 +58,7 @@
         }
     },
     "moveback!": {
-        "resourceId": "artifact:1150513195203429312",
+        "menuresourceId": "artifact:1150513195203429312",
         "menuRotation": {
             "x": 270,
             "y": 0,
