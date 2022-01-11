@@ -202,7 +202,7 @@ export default class WearAHat {
 
             // Create a Artifact without a collider
             MRE.Actor.CreateFromLibrary(this.context, {
-                menuresourceId: hatRecord.menuresourceId,
+                resourceId: hatRecord.menuresourceId,
                 actor: {
                     transform: {
                         local: {
