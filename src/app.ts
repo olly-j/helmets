@@ -13,6 +13,7 @@ const DEBUG = false;
  * The structure of a hat entry in the hat database.
  */
 type HatDescriptor = {
+    menuresourceId: string;
     resourceId: string;
     attachPoint: string;
     scale: {
@@ -201,7 +202,7 @@ export default class WearAHat {
 
             // Create a Artifact without a collider
             MRE.Actor.CreateFromLibrary(this.context, {
-                resourceId: hatRecord.resourceId,
+                menuresourceId: hatRecord.menuresourceId,
                 actor: {
                     transform: {
                         local: {
