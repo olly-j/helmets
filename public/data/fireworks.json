@@ -1,17 +1,17 @@
 {
   "Firework1": {
-        "menuresourceID": "artifact:1912390782229151974";
-    "resourceId": "artifact:1912390844095136001";
+    "menuresourceID": "artifact:1912390782229151974",
+    "resourceId": "artifact:1912390844095136001",
     "attachPoint": "na"
   },
     "scale": {
-      "x": 1;
-      "y": 1;
+      "x": 1,
+      "y": 1,
       "z": 1
     },
     "position": {
-      "x": 0;
-      "y": 0;
+      "x": 0,
+      "y": 0,
       "z": 100
     },
     "rotation": {
