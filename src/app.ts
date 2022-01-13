@@ -13,9 +13,9 @@ const DEBUG = false;
  * The structure of a hat entry in the hat database.
  */
 type HatDescriptor = {
-    menuresourceId: string;
     resourceId: string;
     attachPoint: string;
+    menuresourceId: string;
     scale: {
         x: number;
         y: number;
